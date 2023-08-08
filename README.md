@@ -1,10 +1,10 @@
 # Personal Portfolio 2
 
-👋 Thanks for by! Here is my personal portfolio.
+👋 Thanks for stopping by! Here is my personal portfolio.
 
 🔗 Live site <https://meetgerardo.com>
 
-📩 Email: <gerardojuarez@gmail.com>
+📩 Email: <gerardojuarez695@gmail.com>
 
 ⚙️ Linkedin: <https://www.linkedin.com/in/gerardo-juarez-cano/>
 
