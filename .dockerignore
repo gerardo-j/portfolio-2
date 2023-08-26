@@ -1,0 +1,22 @@
+# Exclude development and version control files
+node_modules/
+npm-debug.log
+yarn-error.log
+.git
+.gitignore
+
+# Exclude build artifacts
+build/
+dist/
+*.log
+
+
+# Exclude editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Exclude documentation and other non-essential files
+docs/
+*.md
+LICENSE
