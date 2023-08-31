@@ -1,25 +1,18 @@
 <script>
-	// Your selected Skeleton theme:
-	import '@skeletonlabs/skeleton/themes/theme-skeleton.css';
-
-	// This contains the bulk of Skeletons required styles:
-	import '@skeletonlabs/skeleton/styles/skeleton.css';
-
-	// Finally, your application's global stylesheet (sometimes labeled 'app.css')
 	import '../app.postcss';
 </script>
 
 <body>
-	<div>
-		<slot />
-	</div>
+	<!-- <div> -->
+	<slot />
+	<!-- </div> -->
 </body>
 
 <style>
 	body {
-		margin: 0;
-		padding: 0;
-		color: #023047;
+		/* margin: 0; */
+		/* padding: 0; */
+		/* color: #023047; */
 	}
 
 	div {
