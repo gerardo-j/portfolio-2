@@ -85,7 +85,7 @@ export const customTheme = {
 		'--color-error-800': '140 31 17', // #8c1f11
 		'--color-error-900': '115 25 14', // #73190e
 		// surface | #bab4d7
-		'--color-surface-50': '245 244 249', // #f5f4f9
+		'--color-surface-50': '235 240 249', // #f5f4f9
 		'--color-surface-100': '241 240 247', // #f1f0f7
 		'--color-surface-200': '238 236 245', // #eeecf5
 		'--color-surface-300': '227 225 239', // #e3e1ef
