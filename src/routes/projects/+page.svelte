@@ -1,3 +1,3 @@
-<div class="flex justify-center items-center h-screen">
-	<h1 class="h1 text-center">Coming Soon</h1>
+<div class="mt-16">
+	<h1 class="font-bold h2 text-center text-secondary-500">Coming Soon</h1>
 </div>
