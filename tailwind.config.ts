@@ -1,12 +1,12 @@
 // @ts-check
 import { join } from 'path';
+import type { Config } from 'tailwindcss';
 
 // 1. Import the Skeleton plugin
 import { skeleton } from '@skeletonlabs/tw-plugin';
 import { customTheme } from './custom-theme';
 
-/** @type {import('tailwindcss').Config} */
-export default {
+const config = {
 	// 2. Opt for dark mode to be handled via the class method
 	darkMode: 'class',
 	content: [
@@ -25,4 +25,6 @@ export default {
 			}
 		})
 	]
-};
+} satisfies Config;
+
+export default config;
